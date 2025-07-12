@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hoover Intelligence</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: sans-serif;
+            background-color: #0e0e0e;
+            color: #ffffff;
+            line-height: 1.6;
+        }
+        header {
+            padding: 4rem 2rem;
+            text-align: center;
+            background: #111;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        p {
+            font-size: 1.1rem;
+            max-width: 700px;
+            margin: 0 auto 2rem;
+        }
+        section {
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+        .cta-button {
+            display: inline-block;
+            margin-top: 1rem;
+            padding: 0.75rem 1.5rem;
+            background-color: #3d5afe;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        footer {
+            padding: 2rem;
+            text-align: center;
+            font-size: 0.9rem;
+            background: #111;
+            color: #aaa;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Hoover Intelligence</h1>
+        <p>Purpose-built AI agents for modern business.<br>
+           Delivered in 2 business days. Flat $195. No bloat.</p>
+        <a class="cta-button" href="https://tally.so/r/mOP9RB">Request Your Agent</a>
+    </header>
+
+    <section>
+        <h2>How It Works</h2>
+        <p><strong>Step 1:</strong> You tell us what you need.<br>
+           <strong>Step 2:</strong> We build your agent.<br>
+           <strong>Step 3:</strong> You get a walkthrough + quickstart guide in 48 hours.</p>
+    </section>
+
+    <section>
+        <h2>Why Hoover Intelligence?</h2>
+        <p>Flat pricing. Delivered fast. Built by a real operator.<br>
+           Designed for output, not fluff.</p>
+    </section>
+
+    <footer>
+        <p>Crafted by Hoover Intelligence. Purpose-built AI agents for modern business.</p>
+    </footer>
+</body>
+</html>
